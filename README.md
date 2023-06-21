@@ -1,13 +1,13 @@
 <div align="center">
 
-# Chatify
+# ChatVibe
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
 ### https://chatifynew.vercel.app/
 
 <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+<!--   <img alt="Demo" src="./Assets/chatify.png" /> -->
 </div>
 
 </div>
