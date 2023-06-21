@@ -50,7 +50,7 @@ function SignUp() {
       <div className={classes.paper}>
         <img src={loginImg} className={classes.mainImg} alt="signup img" />
         <Topography variant="h4" style={{ paddingTop: "15px" }}>
-          Sign In To Chatify
+          Sign In To ChatVibe
         </Topography>
         <Button
           variant="outlined"
